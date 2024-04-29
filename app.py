@@ -1,5 +1,4 @@
 """Blogly application."""
-
 from flask import Flask
 from models import db, connect_db
 
